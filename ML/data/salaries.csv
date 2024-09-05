@@ -1,0 +1,37 @@
+company,job,degree,salary_more_then_100k
+google,sales executive,bachelors,0
+google,sales executive,masters,0
+google,business manager,bachelors,1
+google,business manager,masters,1
+google,computer programmer,bachelors,0
+google,computer programmer,masters,1
+abc pharma,sales executive,masters,0
+abc pharma,computer programmer,bachelors,0
+abc pharma,business manager,bachelors,0
+abc pharma,business manager,masters,1
+facebook,sales executive,bachelors,1
+facebook,sales executive,masters,1
+facebook,business manager,bachelors,1
+facebook,business manager,masters,1
+facebook,computer programmer,bachelors,1
+facebook,computer programmer,masters,1
+amazon,sales executive,bachelors,0
+amazon,sales executive,masters,0
+amazon,business manager,bachelors,1
+amazon,business manager,masters,1
+amazon,computer programmer,bachelors,0
+amazon,computer programmer,masters,1
+microsoft,sales executive,bachelors,1
+microsoft,sales executive,masters,1
+microsoft,business manager,bachelors,1
+microsoft,business manager,masters,1
+microsoft,computer programmer,bachelors,1
+microsoft,computer programmer,masters,1
+tesla,sales executive,bachelors,0
+tesla,sales executive,masters,0
+tesla,business manager,bachelors,0
+tesla,business manager,masters,1
+tesla,computer programmer,bachelors,0
+tesla,computer programmer,masters,1
+netflix,sales executive,bachelors,1
+netflix,business manager,masters,1
